@@ -1,0 +1,824 @@
+Adjusted date,Position,Seniority,Location,Studio,Client,Project,Team Name,Engagement,Year,Month,Day
+01Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.9,2023,1,1
+01Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.31,2023,1,1
+01Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,1
+01Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,1
+01Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.26,2023,1,1
+01Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,1
+02Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,1,2
+02Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.92,2023,1,2
+02Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4.45,2023,1,2
+02Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,4.45,2023,1,2
+02Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.46,2023,1,2
+02Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,2
+03Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.08,2023,1,3
+03Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.97,2023,1,3
+03Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.9,2023,1,3
+03Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.9,2023,1,3
+03Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.37,2023,1,3
+03Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,3
+04Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.78,2023,1,4
+04Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.31,2023,1,4
+04Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.85,2023,1,4
+04Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.85,2023,1,4
+04Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.38,2023,1,4
+04Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,4
+05Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.83,2023,1,5
+05Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.06,2023,1,5
+05Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.8,2023,1,5
+05Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.8,2023,1,5
+05Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.73,2023,1,5
+05Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,5
+06Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.83,2023,1,6
+06Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.73,2023,1,6
+06Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,1,6
+06Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,1,6
+06Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.09,2023,1,6
+06Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,-1,2023,1,6
+07Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.13,2023,1,7
+07Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.88,2023,1,7
+07Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.7,2023,1,7
+07Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.7,2023,1,7
+07Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.82,2023,1,7
+07Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,7
+08Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,1,8
+08Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.25,2023,1,8
+08Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.65,2023,1,8
+08Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.65,2023,1,8
+08Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.88,2023,1,8
+08Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,8
+09Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.31,2023,1,9
+09Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.51,2023,1,9
+09Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4.1,2023,1,9
+09Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,4.1,2023,1,9
+09Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.68,2023,1,9
+09Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,9
+10Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,1,10
+10Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.35,2023,1,10
+10Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.55,2023,1,10
+10Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.55,2023,1,10
+10Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,1,10
+10Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,10
+11Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.94,2023,1,11
+11Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.33,2023,1,11
+11Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,11
+11Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,11
+11Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.53,2023,1,11
+11Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,11
+12Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.79,2023,1,12
+12Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,1,12
+12Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,1,12
+12Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,1,12
+12Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.03,2023,1,12
+12Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,1,12
+13Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,1,13
+13Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,1,13
+13Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,1,13
+13Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,1,13
+13Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.13,2023,1,13
+13Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,13
+14Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,14
+14Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.56,2023,1,14
+14Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.35,2023,1,14
+14Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.35,2023,1,14
+14Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,1,14
+14Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,1,14
+15Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.68,2023,1,15
+15Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.74,2023,1,15
+15Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,1,15
+15Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,1,15
+15Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.52,2023,1,15
+15Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,15
+16Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.64,2023,1,16
+16Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.88,2023,1,16
+16Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,1,16
+16Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,1,16
+16Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,1,16
+16Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,16
+17Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,1,17
+17Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.06,2023,1,17
+17Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,1,17
+17Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,1,17
+17Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.34,2023,1,17
+17Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,17
+18Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.9,2023,1,18
+18Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.53,2023,1,18
+18Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,1,18
+18Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,1,18
+18Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.18,2023,1,18
+18Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,18
+19Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,1,19
+19Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,19
+19Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,1,19
+19Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,1,19
+19Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,1,19
+19Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,19
+20Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.51,2023,1,20
+20Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.08,2023,1,20
+20Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,1,20
+20Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,1,20
+20Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,1,20
+20Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,20
+21Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.83,2023,1,21
+21Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.52,2023,1,21
+21Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,21
+21Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,21
+21Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.34,2023,1,21
+21Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,1,21
+22Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.47,2023,1,22
+22Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.46,2023,1,22
+22Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,1,22
+22Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,1,22
+22Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.33,2023,1,22
+22Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,22
+23Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.59,2023,1,23
+23Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.57,2023,1,23
+23Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,1,23
+23Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,1,23
+23Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,1,23
+23Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,23
+24Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.97,2023,1,24
+24Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.38,2023,1,24
+24Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,1,24
+24Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,1,24
+24Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.36,2023,1,24
+24Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,24
+25Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.99,2023,1,25
+25Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,1,25
+25Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,1,25
+25Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,1,25
+25Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.22,2023,1,25
+25Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,25
+26Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.64,2023,1,26
+26Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.47,2023,1,26
+26Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.75,2023,1,26
+26Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.75,2023,1,26
+26Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,1,26
+26Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,26
+27Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.42,2023,1,27
+27Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.34,2023,1,27
+27Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,1,27
+27Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,1,27
+27Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.27,2023,1,27
+27Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,27
+28Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.44,2023,1,28
+28Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.73,2023,1,28
+28Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,1,28
+28Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,1,28
+28Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.56,2023,1,28
+28Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.53,2023,1,28
+28Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,28
+29Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.74,2023,1,29
+29Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.94,2023,1,29
+29Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,1,29
+29Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,1,29
+29Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.63,2023,1,29
+29Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,1,29
+30Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,1,30
+30Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.31,2023,1,30
+30Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,1,30
+30Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,1,30
+30Jan23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,1,30
+30Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.22,2023,1,30
+30Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,1,30
+31Jan23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,1,31
+31Jan23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.57,2023,1,31
+31Jan23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,31
+31Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,1,31
+31Jan23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,1,31
+31Jan23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,1,31
+31Jan23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,1,31
+01Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.04,2023,2,1
+01Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.96,2023,2,1
+01Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.45,2023,2,1
+1Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,1
+1Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,2,1
+01Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,1
+02Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.86,2023,2,2
+02Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.35,2023,2,2
+02Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,2,2
+2Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,2
+2Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.86,2023,2,2
+02Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,2
+03Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.33,2023,2,3
+03Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.76,2023,2,3
+03Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.35,2023,2,3
+3Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,3
+3Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.77,2023,2,3
+03Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,3
+04Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.67,2023,2,4
+04Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.27,2023,2,4
+04Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.3,2023,2,4
+4Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,4
+4Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,2,4
+04Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,4
+05Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.68,2023,2,5
+05Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,2,5
+05Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.25,2023,2,5
+5Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,5
+5Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.81,2023,2,5
+05Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,5
+06Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.92,2023,2,6
+06Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.27,2023,2,6
+06Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,2,6
+6Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,6
+6Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,2,6
+06Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,-1,2023,2,6
+07Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,2,7
+07Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,7
+07Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.15,2023,2,7
+7Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,7
+7Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.79,2023,2,7
+07Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,7
+08Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,2,8
+08Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,2,8
+08Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.1,2023,2,8
+8Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,8
+8Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,2,8
+08Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,2,8
+09Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.59,2023,2,9
+09Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,2,9
+09Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.05,2023,2,9
+9Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,9
+9Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.49,2023,2,9
+09Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,2,9
+10Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.94,2023,2,10
+10Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,2,10
+10Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,10
+10Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,10
+10Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.53,2023,2,10
+10Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,10
+11Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.79,2023,2,11
+11Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.61,2023,2,11
+11Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,11
+11Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,11
+11Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.57,2023,2,11
+11Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,11
+12Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,2,12
+12Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,2,12
+12Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,12
+12Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,12
+12Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.19,2023,2,12
+12Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,12
+13Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,2,13
+13Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.36,2023,2,13
+13Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.35,2023,2,13
+13Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,13
+13Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,2,13
+13Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,13
+14Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,2,14
+14Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,2,14
+14Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,14
+14Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,14
+14Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.33,2023,2,14
+14Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,14
+15Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.77,2023,2,15
+15Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,2,15
+15Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,15
+15Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,15
+15Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,2,15
+15Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,15
+16Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.09,2023,2,16
+16Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.86,2023,2,16
+16Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,16
+16Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,16
+16Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,2,16
+16Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.2,2023,2,16
+17Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.64,2023,2,17
+17Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,2,17
+17Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,17
+17Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,17
+17Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,2,17
+17Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,2,17
+18Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,2,18
+18Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.47,2023,2,18
+18Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,18
+18Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,2,18
+18Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,2,18
+19Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.63,2023,2,19
+19Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.28,2023,2,19
+19Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,19
+19Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,2,19
+19Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,2,19
+20Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.54,2023,2,20
+20Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.84,2023,2,20
+20Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,20
+20Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,20
+20Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.67,2023,2,20
+20Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,20
+21Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.62,2023,2,21
+21Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.08,2023,2,21
+21Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,21
+21Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,21
+21Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.23,2023,2,21
+21Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,21
+22Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.48,2023,2,22
+22Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.19,2023,2,22
+22Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,22
+22Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,22
+22Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.78,2023,2,22
+22Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,2,22
+23Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.76,2023,2,23
+23Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,2,23
+23Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,23
+23Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,23
+23Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.51,2023,2,23
+23Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.9,2023,2,23
+24Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,24
+24Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,2,24
+24Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,24
+24Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,24
+24Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.23,2023,2,24
+24Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,24
+25Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,25
+25Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.25,2023,2,25
+25Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,25
+25Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,25
+25Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.83,2023,2,25
+25Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,2,25
+26Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,26
+26Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.64,2023,2,26
+26Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,26
+26Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,2,26
+26Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.38,2023,2,26
+26Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,26
+27Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,27
+27Feb23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,27
+27Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,2,27
+27Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,27
+27Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,27
+27Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.98,2023,2,27
+27Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,2,27
+28Feb23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.86,2023,2,28
+28Feb23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.96,2023,2,28
+28Feb23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.61,2023,2,28
+28Feb23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,2,28
+28Feb23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,2,28
+28Feb23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.83,2023,2,28
+28Feb23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,2,28
+01Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.74,2023,3,1
+01Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.53,2023,3,1
+01Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.12,2023,3,1
+1Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,1
+1Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,3,1
+1Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,3,1
+01Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,-1,2023,3,1
+02Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,3,2
+02Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.91,2023,3,2
+02Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.9,2023,3,2
+2Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,2
+2Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,3,2
+2Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.92,2023,3,2
+02Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,3,2
+03Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.51,2023,3,3
+03Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.46,2023,3,3
+03Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,3,3
+3Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,3
+3Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,3,3
+3Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.43,2023,3,3
+03Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.3,2023,3,3
+04Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.84,2023,3,4
+04Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.08,2023,3,4
+04Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,3,4
+4Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,4
+4Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,3,4
+4Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.34,2023,3,4
+04Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.21,2023,3,4
+05Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.28,2023,3,5
+05Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.21,2023,3,5
+05Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,3,5
+5Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,5
+5Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,3,5
+5Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.29,2023,3,5
+05Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,3,5
+06Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.94,2023,3,6
+06Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.42,2023,3,6
+06Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.67,2023,3,6
+6Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,-1,2023,3,6
+6Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,3,6
+6Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,3,6
+06Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,3,6
+07Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.71,2023,3,7
+07Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.79,2023,3,7
+07Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.63,2023,3,7
+7Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,7
+7Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,3,7
+7Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.46,2023,3,7
+07Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.3,2023,3,7
+08Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,3,8
+08Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.91,2023,3,8
+08Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,3,8
+8Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,8
+8Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,3,8
+8Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,3,8
+08Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,-1,2023,3,8
+09Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,3,9
+09Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.55,2023,3,9
+09Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.84,2023,3,9
+9Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,9
+9Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,3,9
+9Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.88,2023,3,9
+09Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,9
+10Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.57,2023,3,10
+10Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.14,2023,3,10
+10Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.99,2023,3,10
+10Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,10
+10Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,3,10
+10Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.35,2023,3,10
+10Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,10
+11Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.41,2023,3,11
+11Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.13,2023,3,11
+11Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.25,2023,3,11
+11Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,11
+11Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,3,11
+11Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,3,11
+11Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,11
+12Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.22,2023,3,12
+12Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.77,2023,3,12
+12Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,12
+12Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,12
+12Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,3,12
+12Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.63,2023,3,12
+12Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,12
+13Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.99,2023,3,13
+13Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.84,2023,3,13
+13Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,13
+13Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,13
+13Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,13
+13Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.02,2023,3,13
+13Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,13
+14Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.11,2023,3,14
+14Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.07,2023,3,14
+14Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,14
+14Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,14
+14Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,3,14
+14Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.04,2023,3,14
+14Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,14
+15Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.47,2023,3,15
+15Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.04,2023,3,15
+15Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,15
+15Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,15
+15Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,3,15
+15Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.02,2023,3,15
+15Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,15
+16Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.69,2023,3,16
+16Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.28,2023,3,16
+16Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.03,2023,3,16
+16Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,16
+16Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,3,16
+16Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.31,2023,3,16
+16Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,16
+17Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.47,2023,3,17
+17Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,3,17
+17Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.36,2023,3,17
+17Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,17
+17Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,3,17
+17Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.97,2023,3,17
+17Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,17
+18Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.18,2023,3,18
+18Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.13,2023,3,18
+18Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.9,2023,3,18
+18Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,18
+18Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,3,18
+18Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.62,2023,3,18
+18Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,18
+19Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.9,2023,3,19
+19Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.58,2023,3,19
+19Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.79,2023,3,19
+19Mar23,Software Developer,Sr Level 2,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,19
+19Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,3,19
+19Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.22,2023,3,19
+19Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,19
+20Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,3,20
+20Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.58,2023,3,20
+20Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.98,2023,3,20
+20Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,20
+20Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,3,20
+20Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,20
+21Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,3,21
+21Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,3,21
+21Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.31,2023,3,21
+21Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,21
+21Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.63,2023,3,21
+21Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,21
+22Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.38,2023,3,22
+22Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.52,2023,3,22
+22Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.23,2023,3,22
+22Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,22
+22Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.03,2023,3,22
+22Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,3,22
+23Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.36,2023,3,23
+23Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.43,2023,3,23
+23Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,3,23
+23Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,23
+23Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.42,2023,3,23
+23Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,23
+24Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,3,24
+24Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.67,2023,3,24
+24Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,24
+24Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.37,2023,3,24
+24Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,24
+25Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.79,2023,3,25
+25Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.16,2023,3,25
+25Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,25
+25Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.21,2023,3,25
+25Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,25
+26Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,3,26
+26Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.63,2023,3,26
+26Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,26
+26Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,3,26
+26Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,26
+27Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,3,27
+27Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.51,2023,3,27
+27Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.81,2023,3,27
+27Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,27
+27Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,3,27
+27Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,27
+28Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.16,2023,3,28
+28Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.68,2023,3,28
+28Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,3,28
+28Mar23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,3,28
+28Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,28
+28Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.71,2023,3,28
+28Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,28
+29Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.47,2023,3,29
+29Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.37,2023,3,29
+29Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.39,2023,3,29
+29Mar23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4.45,2023,3,29
+29Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,29
+29Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.39,2023,3,29
+29Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,-1,2023,3,29
+30Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.88,2023,3,30
+30Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.77,2023,3,30
+30Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.19,2023,3,30
+30Mar23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.9,2023,3,30
+30Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,30
+30Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.49,2023,3,30
+30Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.3,2023,3,30
+31Mar23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.86,2023,3,31
+31Mar23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,3,31
+31Mar23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,3,31
+31Mar23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.85,2023,3,31
+31Mar23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,3,31
+31Mar23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.75,2023,3,31
+31Mar23,Software Developer,Ssr,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.3,2023,3,31
+1Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.71,2023,4,1
+01Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.54,2023,4,1
+01Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,4,1
+1Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.8,2023,4,1
+1Apr23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,4,1
+1Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,4,1
+2Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.55,2023,4,2
+02Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,4,2
+02Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.39,2023,4,2
+2Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,4,2
+2Apr23,Software Developer,Sr Level 1,CDMX,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,4,2
+2Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.61,2023,4,2
+3Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.92,2023,4,3
+03Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.46,2023,4,3
+03Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.82,2023,4,3
+3Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.7,2023,4,3
+3Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,4,3
+4Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.19,2023,4,4
+04Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.06,2023,4,4
+04Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.59,2023,4,4
+4Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.65,2023,4,4
+4Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.03,2023,4,4
+5Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.27,2023,4,5
+05Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.68,2023,4,5
+05Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.09,2023,4,5
+5Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,4.1,2023,4,5
+5Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.96,2023,4,5
+6Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.94,2023,4,6
+06Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.21,2023,4,6
+06Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,4,6
+6Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.55,2023,4,6
+6Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,4,6
+7Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,4,7
+07Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.67,2023,4,7
+07Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.13,2023,4,7
+7Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,4,7
+7Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,4,7
+8Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.53,2023,4,8
+08Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.64,2023,4,8
+08Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.49,2023,4,8
+8Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,4,8
+8Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,4,8
+9Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,4,9
+09Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.96,2023,4,9
+09Apr23,Project Manager,Sr Level 1,GDL,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.69,2023,4,9
+9Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,4,2023,4,9
+9Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,4,9
+9Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,4,9
+10Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.13,2023,4,10
+10Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.63,2023,4,10
+10Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.01,2023,4,10
+10Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,4.45,2023,4,10
+10Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.35,2023,4,10
+10Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.31,2023,4,10
+11Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.11,2023,4,11
+11Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,4,11
+11Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,4,11
+11Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.9,2023,4,11
+11Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,4,11
+11Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.47,2023,4,11
+12Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.03,2023,4,12
+12Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.49,2023,4,12
+12Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.85,2023,4,12
+12Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,4,12
+12Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.78,2023,4,12
+13Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.22,2023,4,13
+13Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.62,2023,4,13
+13Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.8,2023,4,13
+13Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,4,13
+13Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.11,2023,4,13
+14Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.92,2023,4,14
+14Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,4,14
+14Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,4,14
+14Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,4,14
+14Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.75,2023,4,14
+15Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.98,2023,4,15
+15Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,4,15
+15Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.7,2023,4,15
+15Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,4,15
+15Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,4,15
+16Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,4,16
+16Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.27,2023,4,16
+16Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.65,2023,4,16
+16Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,4,16
+16Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.16,2023,4,16
+17Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.56,2023,4,17
+17Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.21,2023,4,17
+17Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,4.1,2023,4,17
+17Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,4,17
+17Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,4,17
+18Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.77,2023,4,18
+18Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.46,2023,4,18
+18Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.55,2023,4,18
+18Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,4,18
+18Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.98,2023,4,18
+19Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,4,19
+19Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,4,19
+19Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.5,2023,4,19
+19Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,4,19
+19Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,4,19
+20Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.06,2023,4,20
+20Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.46,2023,4,20
+20Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,4,20
+20Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,4,20
+20Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.62,2023,4,20
+21Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.22,2023,4,21
+21Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.41,2023,4,21
+21Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,4,21
+21Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,4,21
+21Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.42,2023,4,21
+22Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.18,2023,4,22
+22Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.44,2023,4,22
+22Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.35,2023,4,22
+22Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.75,2023,4,22
+22Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,4,22
+23Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,4,23
+23Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.45,2023,4,23
+23Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.3,2023,4,23
+23Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,4,23
+23Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.42,2023,4,23
+24Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,4,24
+24Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.34,2023,4,24
+24Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.75,2023,4,24
+24Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,4,24
+24Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.39,2023,4,24
+25Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.44,2023,4,25
+25Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.49,2023,4,25
+25Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.2,2023,4,25
+25Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,4,25
+25Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.28,2023,4,25
+26Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.37,2023,4,26
+26Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,4,26
+26Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,4,26
+26Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,4,26
+26Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.21,2023,4,26
+27Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.76,2023,4,27
+27Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.36,2023,4,27
+27Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,4,27
+27Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,4,27
+27Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.78,2023,4,27
+28Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.93,2023,4,28
+28Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,4,28
+28Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,4,28
+28Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.45,2023,4,28
+28Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.38,2023,4,28
+29Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.24,2023,4,29
+29Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.16,2023,4,29
+29Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3,2023,4,29
+29Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,4,29
+29Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.57,2023,4,29
+30Apr23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.42,2023,4,30
+30Apr23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,4,30
+30Apr23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,4,30
+30Apr23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.35,2023,4,30
+30Apr23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,4,30
+1May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.97,2023,5,1
+01May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.26,2023,5,1
+1May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.4,2023,5,1
+1May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.3,2023,5,1
+1May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.32,2023,5,1
+2May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.83,2023,5,2
+02May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,2
+2May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,5,2
+2May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.25,2023,5,2
+2May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.09,2023,5,2
+3May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.86,2023,5,3
+03May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,3
+3May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,5,3
+3May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,5,3
+3May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.17,2023,5,3
+4May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.39,2023,5,4
+04May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,4
+4May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.75,2023,5,4
+4May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.15,2023,5,4
+4May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.15,2023,5,4
+5May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,5,5
+05May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,5
+5May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,5,5
+5May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.1,2023,5,5
+5May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,5,5
+6May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.67,2023,5,6
+06May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.21,2023,5,6
+6May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,5,6
+6May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.05,2023,5,6
+6May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.79,2023,5,6
+7May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.99,2023,5,7
+07May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,5,7
+7May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,5,7
+7May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,7
+7May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.83,2023,5,7
+8May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.93,2023,5,8
+08May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.68,2023,5,8
+8May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,5,8
+8May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,8
+8May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.48,2023,5,8
+9May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.22,2023,5,9
+09May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.88,2023,5,9
+9May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.5,2023,5,9
+9May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,9
+9May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.84,2023,5,9
+10May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,3.49,2023,5,10
+10May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.34,2023,5,10
+10May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.45,2023,5,10
+10May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.35,2023,5,10
+10May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,5,10
+11May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,5,11
+11May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,5,11
+11May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.4,2023,5,11
+11May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,11
+11May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.33,2023,5,11
+12May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.8,2023,5,12
+12May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.75,2023,5,12
+12May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.35,2023,5,12
+12May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,12
+12May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.6,2023,5,12
+13May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.85,2023,5,13
+13May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.05,2023,5,13
+13May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.3,2023,5,13
+13May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,13
+13May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.34,2023,5,13
+14May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,5,14
+14May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.06,2023,5,14
+14May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.25,2023,5,14
+14May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,14
+14May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.89,2023,5,14
+15May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.91,2023,5,15
+15May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.36,2023,5,15
+15May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.7,2023,5,15
+15May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,15
+15May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,5,15
+16May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,2.56,2023,5,16
+16May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,5,16
+16May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.15,2023,5,16
+16May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,16
+16May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.65,2023,5,16
+17May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,17
+17May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,3.1,2023,5,17
+17May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.1,2023,5,17
+17May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,17
+17May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.16,2023,5,17
+18May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,18
+18May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.95,2023,5,18
+18May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.05,2023,5,18
+18May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,18
+18May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.43,2023,5,18
+19May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,19
+19May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.72,2023,5,19
+19May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,19
+19May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,19
+19May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,2.99,2023,5,19
+20May23,User Experience Designer,Ssr,BOG,Design,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,20
+20May23,Quality Assurance Tester,Sr Level 1,BOG,Quality Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.87,2023,5,20
+20May23,Project Manager,Ssr,CDMX,Delivery,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,20
+20May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,2.01,2023,5,20
+20May23,DevOps Engineer,Ssr,CDMX,Cloud Ops,UrbanDesign Co.,Echo System,The Walking Pets,3.02,2023,5,20
+21May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,21
+22May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,22
+23May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,23
+24May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,24
+25May23,Software Developer,Ssr,BOG,Engineering,UrbanDesign Co.,Echo System,The Walking Pets,0,2023,5,25
