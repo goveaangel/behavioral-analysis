@@ -1,0 +1,209 @@
+---
+title: "Entregable 1: Reto"
+author:
+  - Diego Vértiz Padilla
+  - José Ángel Govea García
+  - Augusto Ley Rodríguez
+  - Daniel Alberto Sánchez Fortiz
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    embed-resources: true
+    self-contained-math: true
+    df-print: kable
+editor: source
+---
+
+📁 [**Repositorio**](https://github.com/goveaangel/behavioral-analysis)
+
+## Introduccion
+
+### Contexto
+
+Hoy en día, las empresas trabajan con varios equipos al mismo tiempo, cada uno enfocado en proyectos distintos y con diferentes clientes. Coordinar todo eso no es tarea fácil. Se necesita conocer bien las habilidades y la experiencia de cada persona, pero también entender su nivel de motivación y compromiso día a día. Además, cuando los equipos están en distintas ubicaciones, con especialidades diferentes y cierta rotación de personal, es más complicado tener una visión completa de cómo está funcionando todo el conjunto.
+
+### Objetivo(s)
+
+Se recibirá información sobre el trabajo de múltiples equipos en diversos proyectos y con distintos clientes. Los datos incluirán el ID de empleado, la experiencia técnica, el nivel de seniority y los detalles del proyecto, como el equipo asignado, el nombre del proyecto y el cliente correspondiente. Asimismo, se proporcionarán métricas de participación que abarcan indicadores de motivación y engagement con granularidad diaria, registrando la actividad de cada persona durante seis meses.
+
+### Justificación
+
+Analizar la forma en que trabajan los equipos se ha vuelto clave para mejorar tanto los resultados como el ambiente laboral. Ya no basta con medir solo si se cumplen los objetivos o si un proyecto termina a tiempo; también importa entender qué impulsa a las personas a rendir mejor, qué factores las desmotivan y cómo se pueden equilibrar las cargas de trabajo. A través de los datos, las empresas pueden detectar patrones, como bajones de rendimiento o falta de participación, antes de que se conviertan en problemas mayores.
+ Además, este tipo de análisis permite aprovechar mejor el talento interno, asignando tareas de acuerdo con las fortalezas y experiencia de cada colaborador. De esta manera, se pueden tomar decisiones más acertadas, no solo desde la productividad, sino también desde el bienestar del equipo. En pocas palabras, entender los datos del comportamiento laboral ayuda a crear un entorno más equilibrado, eficiente y humano.
+
+## Descripción de los datos
+
+### Contexto de los datos
+
+El conjunto de datos contiene 11,366 registros (filas) y 17 variables (columnas). Cada fila representa la información de una persona trabajadora en un momento específico del tiempo, registrando aspectos relacionados con su puesto, proyecto, área, cliente y nivel de engagement (compromiso) dentro de la empresa.
+
+El dataset se utiliza principalmente para analizar patrones de compromiso laboral y su relación con características del proyecto, equipo, líder, área o fechas.
+
+### Estructura
+
+| Variable      | Tipo de dato | Significado                                                |
+|---------------|--------------|------------------------------------------------------------|
+| Date          | Objeto       | Es la fecha en la que registraron los datos.              |
+| Email         | Objeto       | El email de la persona                                    |
+| Name          | Objeto       | El nombre de la persona                                   |
+| Position      | Objeto       | Puesto de la persona                                      |
+| Seniority     | Objeto       | Rango de la persona                                       |
+| Location      | Objeto       | Lugar en donde trabaja                                    |
+| Studio        | Objeto       | El área donde trabaja la persona                          |
+| Client        | Objeto       | Cliente del proyecto en el que trabaja la persona         |
+| Client Tag    | Objeto       | ID de la persona                                          |
+| Project       | Objeto       | Nombre del proyecto en el que trabaja la persona          |
+| Project Tag   | Objeto       | ID del proyecto                                           |
+| Team Name     | Objeto       | Nombre del equipo en el cual está la persona              |
+| Engagement    | float        | Nivel de compromiso de la persona en su proyecto          |
+| Email Leader  | Objeto       | Email del líder de la persona                             |
+| Year          | int          | Año en el que se registró el dato                         |
+| Month         | int          | Mes en el que se registró el dato                         |
+| Day           | int          | Día en el que se registró el dato                         |
+
+### Calidad de los datos
+
+La única variable que cuenta con datos faltantes es la de Email Leader, la tiene 1.140 datos nulos. Previo a realizar un analisis profundo en el conjunto de datos, parece que esta variable no sera importante para el modelo.
+
+### Resumen estadístico
+
+La siguiente tabla muestra las estadísticas descriptivas de las 4 variables numéricas:
+
+| Estadístico | Engagement | Year | Month | Day  |
+|-------------|------------|------|-------|------|
+| mean        | 2.995      | 2023 | 3.54  | 15.87 |
+| std         | 1.0054     | 0    | 1.72  | 8.75 |
+| min         | 0.0        | 2023 | 1.0   | 1.0  |
+| 25%         | 2.52       | 2023 | 2.0   | 9.0  |
+| 50%         | 3.05       | 2023 | 4.0   | 16.0 |
+| 75%         | 3.60       | 2023 | 5.0   | 23.0 |
+| max         | 5.00       | 2023 | 6.0   | 31.0 |
+
+## Metodologia
+
+### Limpieza de datos
+
+Para garantizar la calidad del analisis y evitar redundacias dentro del conjunto de datos, se llevo a cabo un proceso de limpieza de datos. Las acciones realizadas fueron las siguientes:
+
+#### 1. Eliminación de las columnas 'Year', 'Month' y 'Day'
+
+Debido a que ya contamos con la informacion de año, mes y dia en la columna 'Date' estas columnas se volvieron redundantes. Por lo tanto, se eliminaron para evitar duplicidad de la información. 
+
+#### 2. Estandarización de la columna 'email leader'
+
+La columna 'Email Leader' fue renombrada como 'Name Leader', ya que su contenido fue transformado para alinearse con este nuevo significado. Se extrajo únicamente el nombre del líder, eliminando el dominio del correo electrónico. Esto permitió obtener un identificador más claro y adecuado para análisis posteriores.
+
+Durante el proceso, se detectó la presencia de valores nulos en esta columna. Tras revisar los casos específicos, se identificó que los valores faltantes correspondían a project managers o líderes de proyecto. Debido a esto, se decidió imputar los valores faltantes utilizando el propio nombre del individuo, garantizando consistencia en la columna.
+
+#### 3. Eliminación de columnas redundantes
+
+Las columnas Client y Project almacenan la misma informacion que Client Tag y Project Tag. Para evitar duplicación, ambas columnas fueron eliminadas, conservando únicamente los identificadores únicos que representan a cada cliente y proyecto.
+
+#### 4. Detección de valores inválidos, faltantes y duplicados
+
+- Valores faltantes (NaN): se confirmó que, salvo el caso mencionado en la columna del líder, no existían nulos adicionales en el dataset.
+- Valores inválidos: se verificó que todas las variables cumplían con su dominio esperado, en particular la columna 'Engagement', sin detectar valores fuera de rango.
+- Duplicados: se comprobó que el conjunto de datos no contenía registros duplicados.
+
+### Transformaciones
+
+#### 1. Conversión de fecha a tipo datetime
+
+La variable ‘Date’ originalmente se encontraba en formato de texto (string). Por lo que, decidimos convertir la varibale a un timestamp, lo que nos facilita realizar un analisis temporal.
+
+#### 2. Discretización de la variable Engagement
+
+Con el objetivo de transformar la variable continua 'Engagement' en una versión discreta, se creó una nueva columna llamada 'Engagement Group'. El proceso aplicado fue:
+
+- Los valores iguales a 0 se mantuvieron como 0, dado que este valor representa los días en los que el empleado está de vacaciones.
+- Para los valores mayores a 0, se aplicó una discretización mediante quintiles, dividiendo la distribución de Engagement en cinco segmentos de tamaño similar.
+- A cada quintil se le asignó una etiqueta del 1 al 5, representando niveles crecientes.
+
+### EDA (exploratory data analysis)
+
+El Análisis Exploratorio de Datos permitió comprender la estructura general del conjunto de datos, validar su calidad y detectar patrones relevantes asociados al comportamiento del Engagement. A continuación, se presentan los principales hallazgos obtenidos a partir de visualizaciones.
+
+#### 1. Composición y estructura del dataset
+
+El dataset contiene 11,366 registros que representan información diaria de empleados, incluyendo variables de identificación, atributos laborales, asignación a cliente y proyecto, localización, estudio al que pertenecen y su nivel de Engagement. La mayoría de las variables son categóricas, mientras que Engagement es la principal variable numérica continua.
+
+#### 2. Calidad del dato: valores faltantes, duplicados e inválidos
+
+El EDA confirma que:
+
+- No existen valores faltantes en ninguna columna del dataset
+- No se encontraron registros duplicados.
+- No se detectaron valores inválidos en Engagement ni en otras columnas; todas las variables respetan su dominio esperado.
+
+#### 3. Distribución temporal
+
+La distribución temporal de los registros indica que el dataset cubre todo el periodo sin huecos evidentes, aunque la cantidad de registros por intervalo de tiempo varía de forma apreciable.
+
+::: {.center}
+![Distribución temporal de los registros](../imagenes/timestamp.png){width=80%}
+:::
+
+#### 4. Distribución de variables categóricas
+
+El EDA reveló patrones importantes en la composición laboral:
+
+- En Position, la mayor proporción de empleados pertenece a roles técnicos. Destacan Software Developer (36.6%) y Test Automation Engineer (12.3%).
+
+::: {.center}
+![Distribución de la variable Position](../imagenes/position.png){width=80%}
+:::
+
+- En Studio, Engineering (41.4%) y Quality Engineering (21.6%) concentran más del 60% del personal, reflejando una estructura organizacional centrada en desarrollo y aseguramiento de calidad.
+
+::: {.center}
+![Distribución de la variable Studio](../imagenes/studio.png){width=80%}
+:::
+
+- En Client Tag, los clientes EDUSYS, EBEPRI y TECNVS representan más del 80% de la asignación total.
+
+::: {.center}
+![Distribución de Client Tag](../imagenes/clienttag.png){width=80%}
+:::
+
+- En Project Tag, proyectos como CATPRO y NEXDEV superan el 20% de participación cada uno, lo cual evidencia la existencia de proyectos grandes con muchos empleados asignados.
+
+::: {.center}
+![Distribución de Project Tag](../imagenes/projecttag.png){width=80%}
+:::
+
+Estos patrones permiten contextualizar el Engagement según áreas, clientes y proyectos dominantes dentro de la organización.
+
+#### 5. Distribución del Engagement
+
+El histograma de Engagement muestra:
+
+- Una concentración principal entre valores de 2.5 y 4, con forma aproximadamente normal.
+- Un grupo significativo con valor 0, correspondiente a días de vacaciones o ausencia de actividad laboral, lo cual justifica su exclusión de análisis cuantitativos directos.
+
+
+::: {.center}
+![Histograma de la variable Engagement](../imagenes/engagement.png){width=80%}
+:::
+
+#### 6. Matriz de correlación
+
+La matriz de correlación entre variables codificadas indica:
+
+- Engagement no presenta correlaciones fuertes con ninguna variable laboral, indicando que su comportamiento no depende linealmente de atributos como posición, cliente o ubicación.
+- Existen correlaciones moderadas entre Position, Seniority y Studio, lo cual refleja la estructura natural de roles dentro de la organización.
+- Client Tag, Project Tag y Team Name forman un bloque altamente correlacionado, evidenciando una relación jerárquica cliente, proyecto, equipo.
+- Leader Name no muestra correlación significativa con otras variables, sugiriendo que la asignación de líderes no sigue un patrón estructural específico.
+- La correlación perfecta entre Engagement y Engagement Group confirma que la discretización en quintiles se aplicó correctamente y preserva la estructura original de la variable.
+
+::: {.center}
+![Matriz de correlación entre variables](../imagenes/correlacion.png){width=80%}
+:::
+
+#### 7. Análisis de nulos por columna
+
+::: {.center}
+![Visualización de nulidad por columna](../imagenes/nulidad.png){width=80%}
+:::
+
+El análisis gráfico de nulidad muestra que todas las columnas contienen 11,366 registros completos, con la única excepción ya corregida en Leader Name.
