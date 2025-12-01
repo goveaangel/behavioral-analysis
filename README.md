@@ -368,10 +368,3 @@ Un indicador de dinámica:
 	•	Guardar histórico de predicciones
 	•	Dashboard adicional estilo BI
 
-⸻
-
-🎉 Listo
-
-Este README documenta todo el flujo, desde el dato crudo hasta el producto final interactivo.
-
-Si quieres lo convierto a Markdown listo para GitHub, con emojis, badges, TOC y screenshots.
