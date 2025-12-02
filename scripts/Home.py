@@ -68,21 +68,27 @@ def main():
     st.sidebar.header("Características del segmento / empleado")
 
     proj_options = sorted(df_summary["Project Tag"].dropna().unique())
-    sen_options = sorted(df_summary["Seniority"].dropna().unique())
-    pos_options = sorted(df_summary["Position"].dropna().unique())
-    loc_options = sorted(df_summary["Location"].dropna().unique())
+    sen_options  = sorted(df_summary["Seniority"].dropna().unique())
+    pos_options  = sorted(df_summary["Position"].dropna().unique())
+    loc_options  = sorted(df_summary["Location"].dropna().unique())
 
-    project = st.sidebar.selectbox("Project Tag", proj_options)
-    seniority = st.sidebar.selectbox("Seniority", sen_options)
-    position = st.sidebar.selectbox("Position", pos_options)
-    location = st.sidebar.selectbox("Location", loc_options)
+    project   = st.sidebar.selectbox("Project Tag", proj_options)
+    seniority = st.sidebar.selectbox("Seniority",  sen_options)
+    position  = st.sidebar.selectbox("Position",   pos_options)
+    location  = st.sidebar.selectbox("Location",   loc_options)
 
     if st.sidebar.button("Predecir engagement"):
+        # ---- Guardar selección en session_state ----
+        st.session_state["selected_project"]   = str(project).strip()
+        st.session_state["selected_seniority"] = str(seniority).strip()
+        st.session_state["selected_position"]  = str(position).strip()
+        st.session_state["selected_location"]  = str(location).strip()
+
         # Normalizar valores seleccionados
-        project_norm   = str(project).strip()
-        seniority_norm = str(seniority).strip()
-        position_norm  = str(position).strip()
-        location_norm  = str(location).strip()
+        project_norm   = st.session_state["selected_project"]
+        seniority_norm = st.session_state["selected_seniority"]
+        position_norm  = st.session_state["selected_position"]
+        location_norm  = st.session_state["selected_location"]
 
         # DataFrame crudo con 1 fila
         row = pd.DataFrame(
