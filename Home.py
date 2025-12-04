@@ -140,12 +140,13 @@ def compute_markov_from_segment(sub, states=None):
 # ================== APP ==================
 
 def main():
-    st.title("🔮 Predictor de Engagement – Globant (Markov + Random Forest)")
+    st.image('imagenes/Globant.jpg', width=350)
+    st.title("Predictor de Engagement")
     st.write(
         """
         Este demo combina:
-        - Cadenas de Markov para estimar la dinámica de engagement por segmento.
-        - Random Forest para aproximar el nivel de equilibrio esperado a partir
+        - **Cadenas de Markov** para estimar la dinámica de engagement por segmento.
+        - **Random Forest** para aproximar el nivel de equilibrio esperado a partir
           de características del segmento.
         """
     )
@@ -155,23 +156,31 @@ def main():
     state_means = load_state_means(df_full)
     rf_eng_pipe, rf_net_pipe = load_pipelines()
 
-    # Sidebar de selección
-    st.sidebar.header("Características del segmento / empleado")
+    st.markdown('---')
+
+    # Columnas de elección
+    st.subheader("Características del segmento / empleado")
 
     proj_options = sorted(df_summary["Project Tag"].dropna().unique())
     sen_options  = sorted(df_summary["Seniority"].dropna().unique())
     pos_options  = sorted(df_summary["Position"].dropna().unique())
     loc_options  = sorted(df_summary["Location"].dropna().unique())
+    
+    col1, col2 = st.columns(2)
 
-    project   = st.sidebar.selectbox("Project Tag", proj_options)
-    seniority = st.sidebar.selectbox("Seniority",  sen_options)
-    position  = st.sidebar.selectbox("Position",   pos_options)
-    location  = st.sidebar.selectbox("Location",   loc_options)
+    with col1:
+        project   = st.selectbox("Project Tag", proj_options)
+        seniority = st.selectbox("Seniority",  sen_options)
+    with col2:
+        position  = st.selectbox("Position",   pos_options)
+        location  = st.selectbox("Location",   loc_options)
+
 
     # --- Botón: solo prende la bandera en session_state ---
-    predict_clicked = st.sidebar.button("Predecir engagement")
+    predict_clicked = st.button("Predecir engagement")
 
     if predict_clicked:
+
         # guardamos la selección actual
         st.session_state["selected_project"]   = str(project).strip()
         st.session_state["selected_seniority"] = str(seniority).strip()
@@ -186,6 +195,8 @@ def main():
 
     # --- Si ya hicimos al menos una predicción, mostramos resultados y gráfica ---
     if st.session_state.get("do_prediction", False):
+
+        st.markdown('---')
 
         # Usamos SIEMPRE lo guardado en session_state para ser consistentes
         project_norm   = st.session_state["selected_project"]
@@ -278,31 +289,30 @@ def main():
                     help="Diferencia entre la aproximación ML y el equilibrio Markov."
                 )
 
-        if eng_continuo is not None:
-            st.metric(
-                "Engagement esperado (escala original continua)",
-                f"{eng_continuo:.2f}",
-                help=(
-                    "Traducción del nivel esperado en la escala 1–5 a la escala continua "
-                    "original de la encuesta, usando la media observada por estado."
-                ),
-            )
-            st.caption(
-                "Reconstruido a partir de la media real de engagement continuo en cada estado discreto (1–5)."
-            )
-        else:
-            st.caption("No se pudo reconstruir el engagement en la escala continua original.")
-
-        st.metric("Score neto (mejorar - empeorar)", f"{pred_net:.3f}")
-
-        # Interpretación simple del score neto
-        if pred_net > 0.05:
-            msg = "Tendencia positiva: es más probable mejorar el engagement que empeorarlo."
-        elif pred_net < -0.05:
-            msg = "Tendencia negativa: hay riesgo de deterioro del engagement."
-        else:
-            msg = "Tendencia neutra: probabilidades de mejora y empeoramiento están balanceadas."
-        st.write("**Interpretación del score neto:**", msg)
+        col1, col2 = st.columns(2)
+        with col1:
+            if eng_continuo is not None:
+                st.metric(
+                    "**Engagement esperado (escala original continua)**",
+                    f"{eng_continuo:.2f}",
+                    help=(
+                        "Traducción del nivel esperado en la escala 1–5 a la escala continua "
+                        "original de la encuesta, usando la media observada por estado."
+                    ),
+                )
+            else:
+                st.caption("No se pudo reconstruir el engagement en la escala continua original.")
+        with col2:
+            # Interpretación simple del score neto
+            if pred_net > 0.05:
+                msg = "Tendencia positiva: es más probable mejorar el engagement que empeorarlo."
+            elif pred_net < -0.05:
+                msg = "Tendencia negativa: hay riesgo de deterioro del engagement."
+            else:
+                msg = "Tendencia neutra: probabilidades de mejora y empeoramiento están balanceadas."
+            st.metric("**Score neto (mejorar - empeorar)**", 
+                      f"{pred_net:.3f}",
+                      help=(msg))
 
         # -------- Contexto vs otros segmentos --------
         st.markdown("---")
@@ -314,7 +324,7 @@ def main():
         ).head(5)
         st.write("Top 5 combinaciones históricas en este Project Tag:", df_sim)
 
-                # -------- TRAYECTORIA MARKOV REAL --------
+        # -------- TRAYECTORIA MARKOV REAL --------
         st.markdown("---")
         st.markdown("### Evolución esperada del engagement (dinámica Markov)")
 
@@ -324,13 +334,14 @@ def main():
                 "para construir una dinámica de Markov confiable."
             )
         else:
-            st.caption(
-                f"Dinámica estimada usando datos históricos a nivel: **{nivel_agg}**. "
-                "Cada paso se interpreta como ~1 ciclo mensual de medición de engagement. "
-                "Si no hay suficientes datos en la combinación completa de filtros, "
-                "agregamos el historial (por ejemplo, a nivel Project Tag + Seniority) "
-                "para evitar conclusiones basadas en muy pocos registros."
-            )
+            st.write(f'''
+                Dinámica estimada usando datos históricos a nivel: **{nivel_agg}**.
+                
+                Cada paso se interpreta como ~1 ciclo mensual de medición de engagement.
+                Si no hay suficientes datos en la combinación completa de filtros, 
+                agregamos el historial (por ejemplo, a nivel Project Tag + Seniority)
+                para evitar conclusiones basadas en muy pocos registros."
+            ''')
 
             # --- π0: SIEMPRE histórico inicial del segmento ---
             snap = sub_sorted.groupby("Name").head(1)
