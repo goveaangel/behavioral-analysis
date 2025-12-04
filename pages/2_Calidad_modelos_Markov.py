@@ -8,11 +8,11 @@ import plotly.express as px
 
 # ============= RUTAS =============
 
-# BASE_DIR ahora es scripts/pages
+# BASE_DIR ahora es pages/
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Subimos dos niveles: pages -> scripts -> proyecto
-PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
+# Subimos un nivel: pages -> proyecto
+PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, ".."))
 
 OUTPUT_CSV_DIR = os.path.join(PROJECT_DIR, "outputs", "csv")
 MODEL_DIR      = os.path.join(PROJECT_DIR, "outputs", "models")
@@ -20,11 +20,10 @@ MODEL_DIR      = os.path.join(PROJECT_DIR, "outputs", "models")
 SUMMARY_FILE = os.path.join(
     OUTPUT_CSV_DIR, "summary_ProjectTag_Seniority_Position_Location.csv"
 )
-EVAL_FILE    = os.path.join(
+EVAL_FILE = os.path.join(
     OUTPUT_CSV_DIR, "model_evaluation_report.csv"
 )
 
-# Usamos los mismos pipelines que la app principal
 RF_ENG_PIPE = os.path.join(MODEL_DIR, "rf_engagement_pipeline.pkl")
 RF_NET_PIPE = os.path.join(MODEL_DIR, "rf_score_neto_pipeline.pkl")
 

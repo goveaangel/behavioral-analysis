@@ -147,7 +147,7 @@ def main():
         Este demo combina:
         - **Cadenas de Markov** para estimar la dinámica de engagement por segmento.
         - **Random Forest** para aproximar el nivel de equilibrio esperado a partir
-          de características del segmento.
+          de características del segmento
         """
     )
 
