@@ -1,5 +1,5 @@
 # scripts/pages/3_Insights_segmento.py
-
+from utils.ui import set_background
 import os
 import numpy as np
 import pandas as pd
@@ -345,16 +345,8 @@ def find_better_neighbors(df_summary, project, seniority, position, location, k=
 # ===================== UI PRINCIPAL =====================
 
 def main():
+    set_background()
     st.title("🧠 Insights automáticos por segmento")
-
-    st.write(
-        """
-        Esta pestaña **no repite métricas ni gráficas**: toma la misma información
-        que usan las otras páginas (Cadenas de Markov + modelos ML) y la traduce
-        a un **diagnóstico en lenguaje de negocio**, con recomendaciones
-        accionables para People / líderes de proyecto.
-        """
-    )
 
     df_summary = load_summary()
     df_full    = load_full_data()
@@ -385,7 +377,16 @@ def main():
     position  = st.sidebar.selectbox("Position",    pos_options,  index=pos_idx)
     location  = st.sidebar.selectbox("Location",    loc_options,  index=loc_idx)
 
-    if st.sidebar.button("Generar insight"):
+    
+    clicked = st.sidebar.button("Generar insight")
+
+    # Si no hizo clic pero venimos de Home con una selección, auto-disparar una vez
+    if not clicked and st.session_state.get("from_home_for_insight", False):
+        clicked = True
+        # opcional: reseteamos la bandera para no auto-disparar siempre
+        st.session_state["from_home_for_insight"] = False
+
+    if clicked:
         project_norm   = str(project).strip()
         seniority_norm = str(seniority).strip()
         position_norm  = str(position).strip()

@@ -1,3 +1,4 @@
+from utils.ui import set_background
 import os
 import json
 import pandas as pd
@@ -48,6 +49,7 @@ def load_pipelines():
 
 
 def main():
+    set_background()
     st.title("🔮 Predictor de Engagement – Globant (Markov + Random Forest)")
     st.write(
         """
@@ -78,11 +80,13 @@ def main():
     location  = st.sidebar.selectbox("Location",   loc_options)
 
     if st.sidebar.button("Predecir engagement"):
-        # ---- Guardar selección en session_state ----
         st.session_state["selected_project"]   = str(project).strip()
         st.session_state["selected_seniority"] = str(seniority).strip()
         st.session_state["selected_position"]  = str(position).strip()
         st.session_state["selected_location"]  = str(location).strip()
+
+        # 🔴 Nuevo: marcar que venimos de Home
+        st.session_state["from_home_for_insight"] = True
 
         # Normalizar valores seleccionados
         project_norm   = st.session_state["selected_project"]
@@ -108,7 +112,7 @@ def main():
         pred_net = float(rf_net_pipe.predict(row)[0])
 
         st.subheader("📈 Resultados de la predicción")
-        st.metric("Engagement estacionario esperado", f"{pred_eng:.3f}")
+        st.metric("Nivel de engagement esperado (E[X], estados 1–5)", f"{pred_eng:.3f}")
         st.metric("Score neto (mejorar - empeorar)", f"{pred_net:.3f}")
 
         # Interpretación simple
