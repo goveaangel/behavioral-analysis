@@ -1,4 +1,3 @@
-from utils.ui import set_background
 import os
 import json
 import pandas as pd
@@ -141,7 +140,6 @@ def compute_markov_from_segment(sub, states=None):
 # ================== APP ==================
 
 def main():
-    set_background()
     st.title("🔮 Predictor de Engagement – Globant (Markov + Random Forest)")
     st.write(
         """
