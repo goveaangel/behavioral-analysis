@@ -6,7 +6,7 @@ import streamlit as st
 import joblib
 import matplotlib.pyplot as plt
 import plotly.express as px
-from markov_engagement import (
+from scripts.markov_engagement import (
     build_transition_matrix,
     estacionaria,
     engagement_estacionario,
@@ -17,7 +17,7 @@ from markov_engagement import (
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Subimos un nivel para llegar a la raíz del proyecto
-PROJECT_DIR = os.path.join(BASE_DIR, "..")
+PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 OUTPUT_CSV_DIR = os.path.join(PROJECT_DIR, "outputs", "csv")
 MODEL_DIR      = os.path.join(PROJECT_DIR, "outputs", "models")

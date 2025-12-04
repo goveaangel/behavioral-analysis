@@ -1,6 +1,5 @@
 import os
 import json
-from utils.ui import set_background
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -54,7 +53,6 @@ def load_pipelines():
 # ============= PÁGINA PRINCIPAL =============
 
 def main():
-    set_background()
     st.title("📊 Calidad de modelos vs Cadenas de Markov")
 
     st.write(

@@ -1,5 +1,4 @@
 # scripts/pages/3_Insights_segmento.py
-from utils.ui import set_background
 import os
 import numpy as np
 import pandas as pd
@@ -8,11 +7,11 @@ import plotly.express as px
 
 # ===================== RUTAS =====================
 
-# BASE_DIR ahora es scripts/pages
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+# Directorio actual del archivo (pages/)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Subimos dos niveles: pages -> scripts -> proyecto
-PROJECT_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", ".."))
+# Subir un nivel: proyecto raíz (globant/)
+PROJECT_DIR = os.path.dirname(CURRENT_DIR)
 
 OUTPUT_CSV_DIR = os.path.join(PROJECT_DIR, "outputs", "csv")
 DATA_DIR       = os.path.join(PROJECT_DIR, "data")
@@ -20,10 +19,9 @@ DATA_DIR       = os.path.join(PROJECT_DIR, "data")
 SUMMARY_FILE = os.path.join(
     OUTPUT_CSV_DIR, "summary_ProjectTag_Seniority_Position_Location.csv"
 )
-DATA_FILE    = os.path.join(
+DATA_FILE = os.path.join(
     DATA_DIR, "data_globant_cleaned.csv"
 )
-
 
 # ===================== LOADERS =====================
 
@@ -64,7 +62,6 @@ def load_full_data():
 # ===================== UI PRINCIPAL =====================
 
 def main():
-    set_background()
     st.title("📊 Insights globales de engagement a largo plazo")
 
     st.write(
