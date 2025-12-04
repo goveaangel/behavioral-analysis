@@ -60,14 +60,15 @@ def main():
     st.write(
         """
         Esta página resume **qué tan bien** los modelos de Machine Learning
-        (Random Forest / XGBoost) logran **reproducir las métricas derivadas de
-        las Cadenas de Markov** a nivel segmento.
+        (Random Forest / XGBoost) logran **reproducir las métricas estacionarias
+        derivadas de las Cadenas de Markov** a nivel segmento.
 
         - Tomamos como “verdad” las métricas de Markov:
-          `engagement_estacionario` y `score_neto = prob_mejorar - prob_empeorar`.
+        `engagement_estacionario` (nivel de equilibrio esperado, escala 1–5)
+        y `score_neto = prob_mejorar - prob_empeorar`.
         - Entrenamos modelos que predicen esas métricas a partir de:
-          `Project Tag`, `Seniority`, `Position`, `Location`.
-        - Aquí medimos la **calidad global** de esa aproximación.
+        `Project Tag`, `Seniority`, `Position`, `Location`.
+        - Aquí medimos la **calidad global** de esa aproximación (R², RMSE, MAE).
         """
     )
 
